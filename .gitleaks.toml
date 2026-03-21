@@ -1,0 +1,4 @@
+[[allowlist]]
+description = "False positive: generic-api-key in .io-config.json"
+rules = ["generic-api-key"]
+paths = [".io-config.json"]
